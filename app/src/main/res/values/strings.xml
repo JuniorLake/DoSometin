@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DoSometin</string>
+
+    <string-array name="activity_types">
+        <item>Education</item>
+        <item>Recreational</item>
+        <item>Social</item>
+        <item>Diy</item>
+        <item>Charity</item>
+        <item>Cooking</item>
+        <item>Relaxation</item>
+        <item>Music</item>
+        <item>Busywork</item>
+        <item>Random</item>
+    </string-array>
+
+    <string-array name="activity_participants">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>Random</item>
+    </string-array>
+
+    <string-array name="activity_accessibility">
+        <item>0%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+        <item>Random</item>
+    </string-array>
+</resources>
