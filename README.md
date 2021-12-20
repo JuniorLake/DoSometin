@@ -1,5 +1,5 @@
 # DoSometin
-An app that helps you find activities to do when you're bored.
+An Android application that helps you find activities to do when you're bored.
 
 # What I Learned
 
